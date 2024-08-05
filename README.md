@@ -22,10 +22,10 @@ The JSON file follows this structure:
     "2": {"base": 10, "value": "15"},
     "keys": {"k": 3}
 }
-
+```
 
 ```clone
 git clone https://github.com/charankosari/catalog_test_question
 cd catalog_test_question
 node test.js
-
+```
