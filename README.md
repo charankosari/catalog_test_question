@@ -25,7 +25,15 @@ The JSON file follows this structure:
 ```
 
 ```clone
+# Clone the repository from GitHub
 git clone https://github.com/charankosari/catalog_test_question
+
+# Navigate to the project directory
 cd catalog_test_question
+
+# Run the Node.js script
 node test.js
+
+# Make sure the JSON files are downloaded and named correctly in test.js
+# Ensure that the test1.json and test2.json files are in the same directory as test.js
 ```
